@@ -11,7 +11,7 @@
   <string role="key" value="_addSearchBox"></string>
   <bool value="0"></bool>
   <string role="key" value="_author"></string>
-  <unicode value="EPAF"></unicode>
+  <unicode value="Erika Alvarez /EPAF"></unicode>
   <string role="key" value="_backgroundImg"></string>
   <unicode value=""></unicode>
   <string role="key" value="_contextMode"></string>
@@ -87,7 +87,7 @@
   <string role="key" value="_nextIdeviceId"></string>
   <int value="50"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="31"></int>
+  <int value="32"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -191,7 +191,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="2027"></int>
+                  <int value="2041"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -205,7 +205,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="45_109_2.14"></unicode>
+                <unicode value="45_109_2.15"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -216,7 +216,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Guia_para_actividad.PNG"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\Guia_para_actividad.PNG"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\Guia_para_actividad.PNG"></string>
                   <string role="key" value="checksum"></string>
                   <string value="81e4a6f484e1c1d5f0ae8fe479d15590"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -245,7 +245,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="15"></int>
+           <int value="16"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -384,7 +384,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="2020"></int>
+                  <int value="2034"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -398,7 +398,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_113_2.107"></unicode>
+                <unicode value="0_113_2.109"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="8">
                  <dictionary>
@@ -409,7 +409,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Almacenamiento_en_la_nube.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\Almacenamiento_en_la_nube.jpg"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\Almacenamiento_en_la_nube.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="e100433917843d47aef0ff37f233efff"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -436,7 +436,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="2028"></int>
+                  <int value="2042"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -450,7 +450,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="0_113_2.108"></unicode>
+                <unicode value="0_113_2.110"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="9">
                  <dictionary>
@@ -461,7 +461,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="logo_ues.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\logo_ues.jpg"></string>
+                  <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\logo_ues.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="7a1a9e219e76178d186ddb70e5a70ce2"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -490,7 +490,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="109"></int>
+           <int value="111"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -763,7 +763,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2021"></int>
+                     <int value="2035"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -777,7 +777,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="48_108_2.31"></unicode>
+                   <unicode value="48_108_2.36"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="13">
                     <dictionary>
@@ -788,7 +788,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Amenazas_en_internet.PNG"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\Amenazas_en_internet.PNG"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\Amenazas_en_internet.PNG"></string>
                      <string role="key" value="checksum"></string>
                      <string value="414798c51ae1a35149eaf3d0947fb59d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -815,7 +815,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2024"></int>
+                     <int value="2038"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -829,7 +829,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="48_108_2.32"></unicode>
+                   <unicode value="48_108_2.37"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="14">
                     <dictionary>
@@ -840,7 +840,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="consejos_y_recomendaciones.PNG"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\consejos_y_recomendaciones.PNG"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\consejos_y_recomendaciones.PNG"></string>
                      <string role="key" value="checksum"></string>
                      <string value="f6eb7a27c7185239a058bbdc38420e88"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -867,7 +867,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2025"></int>
+                     <int value="2039"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -881,7 +881,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="48_108_2.33"></unicode>
+                   <unicode value="48_108_2.38"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="15">
                     <dictionary>
@@ -892,7 +892,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="delitos_informaticos.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\delitos_informaticos.jpg"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\delitos_informaticos.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="20f9d02890662145a4f1700e0d44aac5"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -919,7 +919,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2029"></int>
+                     <int value="2043"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -933,7 +933,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="48_108_2.34"></unicode>
+                   <unicode value="48_108_2.39"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="16">
                     <dictionary>
@@ -944,7 +944,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Peligros.PNG"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\Peligros.PNG"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\Peligros.PNG"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8e589d479dd7febb408d7b41f03ed3c7"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -971,7 +971,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2033"></int>
+                     <int value="2047"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -985,7 +985,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="48_108_2.35"></unicode>
+                   <unicode value="48_108_2.40"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="17">
                     <dictionary>
@@ -996,7 +996,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Tipos_de_Malware.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\Tipos_de_Malware.png"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\Tipos_de_Malware.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="783566d3e2de9fc4277debb50a6b049d"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1025,7 +1025,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="36"></int>
+              <int value="41"></int>
               <string role="key" value="parentNode"></string>
               <reference key="12"></reference>
              </dictionary>
@@ -1170,19 +1170,19 @@
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Funciona utilizando tus datos de Google, Facebook o correo y bajo plataformas Windows, Mac, Linux, iOS, Android. Puede ser usada en navegadores como Chrome, Firefox, Edge o Safari y exportar archivos en PNG, PDF, JPG, GIF y video MP4. Es recomendado usarlo en una PC, tiene muchos recursos y sus herramientas te garantizan un trabajo profesional.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/picktochart.jpg&quot; alt=&quot;&quot; width=&quot;274&quot; height=&quot;184&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Picktochart es una herramienta en línea que nos permite &lt;strong&gt;diseñar y crear infografías&lt;/strong&gt; para nuestros proyectos o presentaciones de forma gratuita, es fácil para registrarse y de usar, no lleva mucho tiempo aprender a manejarlo.  La puedes localizar en &lt;a href=&quot;https://piktochart.com/&quot;&gt;https://piktochart.com/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Picktochart es una herramienta en línea que nos permite &lt;strong&gt;diseñar y crear infografías&lt;/strong&gt; para nuestros proyectos o presentaciones de forma gratuita, es fácil para registrarse y de usar, no lleva mucho tiempo aprender a manejarlo.  La puedes localizar en &lt;a href=&quot;https://piktochart.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://piktochart.com/&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;br /&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Cuenta con múltiples opciones para gráficos, dispone de una amplia biblioteca y es un programa que no necesitas tener mucho conocimiento de HTML. Permite exportar la infografía en PNG, JPG, HTML y publicarla en redes sociales.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;div class=&quot;exe-col exe-col-2&quot; style=&quot;text-align: justify;&quot;&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;No se necesitan grandes conocimientos para utilizarlo ya que tiene una interfaz intuitiva y fácil de utilizar, con varias plantillas y elementos multimedia que puedes agregar.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Se puede bajar de &lt;a href=&quot;https://www.canva.com/&quot;&gt;&lt;strong&gt;https://www.canva.com/&lt;/strong&gt;&lt;/a&gt; y podrás ver cómo utilizar esta herramienta en &lt;a href=&quot;https://www.youtube.com/watch?v=kdE6ZmT_5MI&quot;&gt;&lt;strong&gt;https://www.youtube.com/watch?v=kdE6ZmT_5MI&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Se puede bajar de &lt;a href=&quot;https://www.canva.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;https://www.canva.com/&lt;/strong&gt;&lt;/a&gt; y podrás ver cómo utilizar esta herramienta en &lt;a href=&quot;https://www.youtube.com/watch?v=kdE6ZmT_5MI&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;https://www.youtube.com/watch?v=kdE6ZmT_5MI&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;figure class=&quot;exe-figure exe-media position-center license-CC0&quot; style=&quot;width: 700px;&quot;&gt;&lt;iframe width=&quot;700&quot; height=&quot;400&quot; src=&quot;https://www.youtube.com/embed/kdE6ZmT_5MI&quot; allowfullscreen=&quot;allowfullscreen&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;/iframe&gt;
 &lt;figcaption class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=kdE6ZmT_5MI&amp;amp;t=1s&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt; GENERACIÓN APRENDE&lt;/a&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt; 𝗖𝗢𝗠𝗢 𝗨𝗦𝗔𝗥 𝗖𝗔𝗡𝗩𝗔: Canva tutorial - Aprende a diseñar FÁCIL y de manera PROFESIONAL.&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/deed.es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons (CC0)&quot;&gt;CC0&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;A través de este enlace se observa cómo utilizar esta herramienta:&lt;br /&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=4lo6XPRrg9Q&quot;&gt;https://www.youtube.com/watch?v=4lo6XPRrg9Q&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;A través de este enlace se observa cómo utilizar esta herramienta:&lt;br /&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=4lo6XPRrg9Q&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.youtube.com/watch?v=4lo6XPRrg9Q&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;figure class=&quot;exe-figure exe-media position-center license-CC0&quot; style=&quot;width: 700px;&quot;&gt;&lt;iframe width=&quot;700&quot; height=&quot;500&quot; src=&quot;https://www.youtube.com/embed/4lo6XPRrg9Q&quot; allowfullscreen=&quot;allowfullscreen&quot; data-mce-fragment=&quot;1&quot;&gt;&lt;/iframe&gt;
 &lt;figcaption class=&quot;figcaption&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=4lo6XPRrg9Q&amp;amp;t=14s&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt; Educatutos&lt;/a&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Cómo crear una infografía en Piktochart para PROFESORES y ALUMNOS.&lt;/em&gt;&lt;/span&gt; &lt;span class=&quot;license&quot;&gt;&lt;span class=&quot;sep&quot;&gt;(&lt;/span&gt;&lt;a href=&quot;http://creativecommons.org/publicdomain/zero/1.0/deed.es&quot; rel=&quot;license nofollow noopener&quot; target=&quot;_blank&quot; title=&quot;Creative Commons (CC0)&quot;&gt;CC0&lt;/a&gt;&lt;span class=&quot;sep&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
@@ -1209,7 +1209,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2022"></int>
+                     <int value="2036"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1223,7 +1223,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="47_108_2.8"></unicode>
+                   <unicode value="47_108_2.10"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="21">
                     <dictionary>
@@ -1234,7 +1234,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="canva.png"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\canva.png"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\canva.png"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5ad0b8d50e143f614269a66cbd544b85"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1261,7 +1261,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2030"></int>
+                     <int value="2044"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1275,7 +1275,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="47_108_2.9"></unicode>
+                   <unicode value="47_108_2.11"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="22">
                     <dictionary>
@@ -1286,7 +1286,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="picktochart.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\picktochart.jpg"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\picktochart.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="8db759e919dce79cc72d3a4180b4e7f0"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1315,7 +1315,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="10"></int>
+              <int value="12"></int>
               <string role="key" value="parentNode"></string>
               <reference key="20"></reference>
              </dictionary>
@@ -1632,7 +1632,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2026"></int>
+                     <int value="2040"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1646,7 +1646,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="49_108_2.8"></unicode>
+                   <unicode value="49_108_2.10"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="29">
                     <dictionary>
@@ -1657,7 +1657,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="freeimages.PNG"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\freeimages.PNG"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\freeimages.PNG"></string>
                      <string role="key" value="checksum"></string>
                      <string value="64e3109d31fca7ed39d9021240142d34"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1684,7 +1684,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2031"></int>
+                     <int value="2045"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1698,7 +1698,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="49_108_2.9"></unicode>
+                   <unicode value="49_108_2.11"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="30">
                     <dictionary>
@@ -1709,7 +1709,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="pixabay.PNG"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\pixabay.PNG"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\pixabay.PNG"></string>
                      <string role="key" value="checksum"></string>
                      <string value="ef2e93f2aa20c8d0f191420b25a31f30"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1738,7 +1738,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="10"></int>
+              <int value="12"></int>
               <string role="key" value="parentNode"></string>
               <reference key="28"></reference>
              </dictionary>
@@ -1893,12 +1893,12 @@
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;3.&lt;/strong&gt;&lt;/span&gt; Con la información, definir una infografía de manera creativa por medio de la APP &lt;a href=&quot; https://www.canva.com/ &quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Canva&lt;/a&gt; o &lt;a href=&quot;https://piktochart.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Piktochart&lt;/a&gt;. Debe estar creada de manera clara y precisa. Con Texto apropiado según el tema y sin faltas de ortografía. Utilicen Imágenes gratuitas, libres de utilizarse que sirvan como apoyo visual, de acuerdo a los tipos de riesgo y medidas de seguridad que se han seleccionado. Podrán obtenerse de algún sitio web como Google imágenes.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #800000; font-family: 'comic sans ms', sans-serif; font-size: 14pt;&quot;&gt;NOTA:&lt;/span&gt; &lt;/strong&gt;&lt;/span&gt;&lt;em&gt;Debe contener como parte del material: nombre del estudiante, nombre y logo de la Universidad, asignatura y fecha. Así como las referencias y el nombre de la APP utilizadas para su realización&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #800000;&quot;&gt;4.&lt;/span&gt; &lt;/strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Cuando tengan lista la infografía con todos los elementos, deberán descargarla a su equipo con el nombre &lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;EC1-ACT2-APELLIDOS &lt;/strong&gt;&lt;/span&gt;en dos formatos: PDF y como Imagen (JPEG o PNG) &lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;(Ejemplo: EC1-ACT2-ALVAREZ_FLORES.PDF).&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #800000;&quot;&gt;5.&lt;/span&gt; &lt;/strong&gt;Los dos archivos generados y descardados desde la APP &lt;span style=&quot;color: #000000;&quot;&gt; &lt;a href=&quot; https://www.canva.com/ &quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Canva&lt;/a&gt; o &lt;a href=&quot;https://piktochart.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Piktochart&lt;/a&gt;&lt;/span&gt;, &lt;strong&gt;comprímanlos en un solo archivo (ZIP o RAR) por medio de &lt;a href=&quot;https://www.winrar.es/descargas/winrar&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;WinRar&lt;/a&gt; o por medio de alguna otra aplicación de su preferencia.&lt;/strong&gt; Para poder comprimir los dos archivos deben tener instalada la aplicación en su equipo. Una vez instalado el software, marquen (delimiten con el &lt;em&gt;mouse)&lt;/em&gt; directamente los dos archivos que les interesan (no es necesario establecerlos en una carpeta para comprimirlos), dar un clic con el botón derecho del &lt;em&gt;mouse&lt;/em&gt; y seleccionar la opción &lt;strong&gt;Añadir al archivo &lt;/strong&gt;e indicarle que contenga el nombre &lt;strong&gt;EC1-ACT2-APELLIDOS (Ejemplo: EC1-ACT2-ALVAREZ_FLORES.rar)&lt;/strong&gt; y establecerle contraseña de protección: &lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;TIC2021. &lt;/strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt; En el siguiente vídeo se explica detalladamente como comprimir archivos utilizando WinRar.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: #800000;&quot;&gt;5.&lt;/span&gt; &lt;/strong&gt;Los dos archivos generados y descardados desde la APP &lt;span style=&quot;color: #000000;&quot;&gt; &lt;a href=&quot; https://www.canva.com/ &quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Canva&lt;/a&gt; o &lt;a href=&quot;https://piktochart.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Piktochart&lt;/a&gt;&lt;/span&gt;, &lt;strong&gt;comprímanlos en un solo archivo (ZIP o RAR) por medio de &lt;a href=&quot;https://www.winrar.es/descargas/winrar&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;WinRar&lt;/a&gt; o por medio de alguna otra aplicación de su preferencia.&lt;/strong&gt; Para poder comprimir los dos archivos deben tener instalada la aplicación en su equipo. Una vez instalado el software, marquen (delimiten con el &lt;em&gt;mouse)&lt;/em&gt; directamente los dos archivos que les interesan (no es necesario establecerlos en una carpeta para comprimirlos), dar un clic con el botón derecho del &lt;em&gt;mouse&lt;/em&gt; y seleccionar la opción &lt;strong&gt;Añadir al archivo &lt;/strong&gt;e indicarle que contenga el nombre &lt;strong&gt;EC1-ACT2-APELLIDOS (Ejemplo: EC1-ACT2-ALVAREZ_FLORES.rar)&lt;/strong&gt; y establecerle contraseña de protección: &lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;TIC2022. &lt;/strong&gt;&lt;span style=&quot;color: #000000;&quot;&gt; En el siguiente vídeo se explica detalladamente como comprimir archivos utilizando WinRar.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;figure class=&quot;exe-figure exe-media position-center&quot; style=&quot;width: 600px;&quot;&gt;&lt;iframe width=&quot;600&quot; height=&quot;450&quot; src=&quot;https://www.youtube.com/embed/FGg-EyFp1wM&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;
 &lt;figcaption class=&quot;figcaption&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 10pt;&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=FGg-EyFp1wM&quot; target=&quot;_blank&quot; class=&quot;author&quot; rel=&quot;noopener&quot;&gt; Erick Clavijo Morante&lt;/a&gt;. &lt;span class=&quot;title&quot;&gt;&lt;em&gt;Cómo Comprimir y Descomprimir archivos en WInRAR en Windows&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/span&gt; Enviar por medio de la Plataforma Educativa Virtual Institucional, el&lt;span style=&quot;color: #000000;&quot;&gt; archivo comprimido &lt;strong&gt;EC1-ACT2-APELLIDOS.rar o ECI-ACT2-APELLIDOS.zip. &lt;/strong&gt;&lt;/span&gt;Para asegurarte que la evidencia contiene todo lo solicitado, verifica la Rúbrica de Evaluación. &lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;NOTA:&lt;/strong&gt;&lt;/span&gt; &lt;span style=&quot;text-decoration: underline;&quot;&gt; Evidencias iguales entre estudiantes se anulan, independientemente quien haya sido el autor principal.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;iframe width=&quot;1200&quot; height=&quot;600&quot; src=&quot;resources/Rubrica_de_Evaluacion_Act2.pdf&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;iframe width=&quot;1200&quot; height=&quot;600&quot; src=&quot;resources/Rubrica_de_Evaluacion_Act2.pdf&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt; .&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;color: #000000; font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: #ffffff;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
@@ -1921,7 +1921,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2023"></int>
+                     <int value="2037"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1935,7 +1935,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="42_108_2.55"></unicode>
+                   <unicode value="42_108_2.57"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="34">
                     <dictionary>
@@ -1946,7 +1946,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="compartir2.gif"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\compartir2.gif"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpkghm0t\\compartir2.gif"></string>
                      <string role="key" value="checksum"></string>
                      <string value="01c5b8c623077cea88ea1ab8a1bf21e1"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1973,7 +1973,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="2032"></int>
+                     <int value="2048"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -1987,7 +1987,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="42_108_2.56"></unicode>
+                   <unicode value="42_108_2.59"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="35">
                     <dictionary>
@@ -1998,9 +1998,9 @@
                      <string role="key" value="_storageName"></string>
                      <string value="Rubrica_de_Evaluacion_Act2.pdf"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpejmlyu\\Rubrica_de_Evaluacion_Act2.pdf"></string>
+                     <string value="c:\\users\\erika\\appdata\\local\\temp\\tmpmt86iz.eXe\\previews\\allyourbase\\Rubrica_de_Evaluaci\xc3\xb3n_Act2.pdf"></string>
                      <string role="key" value="checksum"></string>
-                     <string value="c0d1b1ef46301fbe23b3b758e350915f"></string>
+                     <string value="5098ba0a3417588de8751ccd9327041e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                      <int value="2"></int>
                      <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -2027,7 +2027,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="57"></int>
+              <int value="60"></int>
               <string role="key" value="parentNode"></string>
               <reference key="33"></reference>
              </dictionary>
@@ -2117,7 +2117,7 @@
     <string role="key" value="coverage"></string>
     <unicode value=""></unicode>
     <string role="key" value="creator"></string>
-    <unicode value="EPAF"></unicode>
+    <unicode value="Erika Alvarez /EPAF"></unicode>
     <string role="key" value="date"></string>
     <unicode value=""></unicode>
     <string role="key" value="description"></string>
@@ -2489,7 +2489,7 @@
             <string role="key" value="extensiontype_"></string>
             <none></none>
             <string role="key" value="valueOf_"></string>
-            <string value="BEGIN:VCARD VERSION:3.0 FN:EPAF EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Erika Alvarez /EPAF EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
            </dictionary>
           </instance>
          </list>
@@ -2593,7 +2593,7 @@
             <string role="key" value="extensiontype_"></string>
             <none></none>
             <string role="key" value="valueOf_"></string>
-            <string value="BEGIN:VCARD VERSION:3.0 FN:EPAF EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Erika Alvarez /EPAF EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
            </dictionary>
           </instance>
          </list>
@@ -3050,7 +3050,7 @@
             <string role="key" value="extensiontype_"></string>
             <none></none>
             <string role="key" value="valueOf_"></string>
-            <string value="BEGIN:VCARD VERSION:3.0 FN:EPAF EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Erika Alvarez /EPAF EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
            </dictionary>
           </instance>
          </list>
@@ -3154,7 +3154,7 @@
             <string role="key" value="extensiontype_"></string>
             <none></none>
             <string role="key" value="valueOf_"></string>
-            <string value="BEGIN:VCARD VERSION:3.0 FN:EPAF EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:Erika Alvarez /EPAF EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
            </dictionary>
           </instance>
          </list>
@@ -3362,6 +3362,10 @@
    <list>
     <reference key="13"></reference>
    </list>
+   <string role="key" value="5098ba0a3417588de8751ccd9327041e"></string>
+   <list>
+    <reference key="35"></reference>
+   </list>
    <string role="key" value="5ad0b8d50e143f614269a66cbd544b85"></string>
    <list>
     <reference key="21"></reference>
@@ -3389,10 +3393,6 @@
    <string role="key" value="8e589d479dd7febb408d7b41f03ed3c7"></string>
    <list>
     <reference key="16"></reference>
-   </list>
-   <string role="key" value="c0d1b1ef46301fbe23b3b758e350915f"></string>
-   <list>
-    <reference key="35"></reference>
    </list>
    <string role="key" value="e100433917843d47aef0ff37f233efff"></string>
    <list>
